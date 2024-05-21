@@ -1,0 +1,6 @@
+python-binance
+pandas
+pandas_datareader
+matplotlib
+python-dotenv
+yfinance
