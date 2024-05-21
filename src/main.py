@@ -1,9 +1,9 @@
-import numpy as np
+#import numpy as np
 from dotenv import load_dotenv
 load_dotenv()
-import os,math,json
+import os,json
 from binance import Client
-import datetime,time
+import time
 import pandas as pd
 
 interval,historic  = '1h', "360 days ago UTC"
